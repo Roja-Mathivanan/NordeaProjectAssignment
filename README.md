@@ -1,5 +1,13 @@
 # StringTokenizer
 
+Java Coding Assignment
+
+     The following is a small coding exercise. You have to provide a working Java program that fulfils a number of requirements. The assessment of your answer will be based on fulfilment of functionality requirements and the quality of the implementation.
+
+Hand-in
+
+    The result of the assignment can be supplied as a zipped project sources.
+
 Set up
 
     Your solution must be written in Java version at least 1.7. Your application must be able to read from
@@ -65,3 +73,16 @@ Functionality
     Sentence 1, a, had, lamb, little, Mary
     Sentence 2, Aesop, and, called, came, for, Peter, the, wolf
     Sentence 3, Cinderella, likes, shoes
+    
+Make sure to check sample files:
+
+Sample input file:
+  1)small.in
+  
+Sample output file:
+  1)small.xml
+  2)small.csv
+  
+Comment:
+  1)Input file
+  2)Functional cases
